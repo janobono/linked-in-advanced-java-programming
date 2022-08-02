@@ -19,6 +19,7 @@
         <module>advanced-data-structures</module>
         <module>functional-programming-in-java</module>
         <module>multithreading-in-java</module>
+        <module>input-and-output</module>
     </modules>
 
     <build>

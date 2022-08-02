@@ -33,3 +33,9 @@ Code base based on LinkedIn course content.
 - [The Runnable interface in Java](./multithreading-in-java/src/main/java/sk/janobono/multithreading/runnable)
 - [Synchronized methods in Java](./multithreading-in-java/src/main/java/sk/janobono/multithreading/sync)
 - [Avoiding thread deadlock](./multithreading-in-java/src/main/java/sk/janobono/multithreading/deadlock/Kitchen.java)
+
+## Input and Output (I/O)
+
+- [Reading console input with scanner](./input-and-output/src/main/java/sk/janobono/io/scanner)
+- [Reading files with BufferedReader](./input-and-output/src/main/java/sk/janobono/io/BufferedReaderExample.java)
+- [Using try-with-resources with I/O](./input-and-output/src/main/java/sk/janobono/io/TryWithResourcesExample.java)
