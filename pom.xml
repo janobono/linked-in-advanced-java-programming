@@ -20,6 +20,7 @@
         <module>functional-programming-in-java</module>
         <module>multithreading-in-java</module>
         <module>input-and-output</module>
+        <module>files-and-directories</module>
     </modules>
 
     <build>

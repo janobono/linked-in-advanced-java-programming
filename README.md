@@ -39,3 +39,10 @@ Code base based on LinkedIn course content.
 - [Reading console input with scanner](./input-and-output/src/main/java/sk/janobono/io/scanner)
 - [Reading files with BufferedReader](./input-and-output/src/main/java/sk/janobono/io/BufferedReaderExample.java)
 - [Using try-with-resources with I/O](./input-and-output/src/main/java/sk/janobono/io/TryWithResourcesExample.java)
+
+## Working with Files and Directories
+
+- [Creating a new file](./files-and-directories/src/main/java/sk/janobono/filesanddirectories/FileCreationExample.java)
+- [Working with directories in Java](./files-and-directories/src/main/java/sk/janobono/filesanddirectories/DirectoriesExample.java)
+- [Using the Path class in Java](./files-and-directories/src/main/java/sk/janobono/filesanddirectories/PathClassExample.java)
+- [Copying files with the Path class](./files-and-directories/src/main/java/sk/janobono/filesanddirectories/FileCopyExample.java)
