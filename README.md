@@ -18,3 +18,11 @@ Code base based on LinkedIn course content.
 - [Implementing a queue with a linked list](./advanced-data-structures/src/main/java/sk/janobono/advanceddatastructures/queue)
 - [Storing pairs with HashMaps](./advanced-data-structures/src/main/java/sk/janobono/advanceddatastructures/HashMapExample.java)
 - [Implementing a LinkedHashMap](./advanced-data-structures/src/main/java/sk/janobono/advanceddatastructures/LinkedHashMapExample.java)
+
+## Functional programming in Java
+
+- [Functional interfaces in Java](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/functionalinterfaces)
+- [Implementing lambdas in Java](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/lambdas)
+- [Using method references in Java](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/methodreference)
+- [Implementing streams in Java](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/streams)
+- [Implementing parallel streams](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/parallelstreams)

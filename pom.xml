@@ -17,6 +17,7 @@
     <modules>
         <module>generics-in-java</module>
         <module>advanced-data-structures</module>
+        <module>functional-interfaces-in-java</module>
     </modules>
 
     <build>
