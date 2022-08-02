@@ -26,3 +26,10 @@ Code base based on LinkedIn course content.
 - [Using method references in Java](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/methodreference)
 - [Implementing streams in Java](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/streams)
 - [Implementing parallel streams](./functional-programming-in-java/src/main/java/sk/janobono/functionalprogramming/parallelstreams)
+
+## Multithreading in Java
+
+- [The Thread class in Java](./multithreading-in-java/src/main/java/sk/janobono/multithreading/thread)
+- [The Runnable interface in Java](./multithreading-in-java/src/main/java/sk/janobono/multithreading/runnable)
+- [Synchronized methods in Java](./multithreading-in-java/src/main/java/sk/janobono/multithreading/sync)
+- [Avoiding thread deadlock](./multithreading-in-java/src/main/java/sk/janobono/multithreading/deadlock/Kitchen.java)

@@ -18,6 +18,7 @@
         <module>generics-in-java</module>
         <module>advanced-data-structures</module>
         <module>functional-programming-in-java</module>
+        <module>multithreading-in-java</module>
     </modules>
 
     <build>
